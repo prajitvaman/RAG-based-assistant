@@ -57,8 +57,3 @@ If using Google Colab, run the ngrok cell to generate a public URL for the appli
 - Do not upload personal API keys or ngrok tokens to GitHub.
 - Generate your own Google API key and ngrok token before running the project.
 
-## Author
-
-Prajit Vaman T S  
-Department of Mathematics and Statistics  
-IIT Kanpur
